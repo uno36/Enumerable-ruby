@@ -152,7 +152,7 @@ I would like to thank microverse and code reviewers that support me for the the 
 
 - **What is the use of this code**
 
-- The provided code creates a custom `MyEnumerable` module with methods `all?`, `any?`, and `filter` for the `MyList` class. It allows `MyList` to perform checks and filtering on its elements. This promotes code reusability, modular design, and extends functionality similar to Ruby's `Enumerable`. By separating concerns, it fosters organized and maintainable code.  
+- The provided code creates a custom `MyEnumerable` module with methods `all?`, `any?`, and `filter` for the `MyList` class. It allows `MyList` to perform checks and filtering on its elements. This promotes code reusability, modular design, and extends functionality similar to Ruby's `Enumerable`. By separating concerns, it fosters organized and maintainable code. A lot of ruby syntax is employed. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
