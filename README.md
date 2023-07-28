@@ -21,11 +21,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+
 # 📖 Enumerable Using Ruby Project<a name="about-project"></a>
+
 
 **Enumerale project** is a code that creates a custom Enumerable module with all?, any?, and filter methods for MyList class.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="RUBY"></a>
 
@@ -151,8 +154,7 @@ I would like to thank microverse and code reviewers that support me for the the 
 ## ❓ FAQ <a name="faq"></a>
 
 - **What is the use of this code**
-
-- The provided code creates a custom `MyEnumerable` module with methods `all?`, `any?`, and `filter` for the `MyList` class. It allows `MyList` to perform checks and filtering on its elements. This promotes code reusability, modular design, and extends functionality similar to Ruby's `Enumerable`. By separating concerns, it fosters organized and maintainable code. A lot of ruby syntax is employed. 
+- The provided code creates a custom `MyEnumerable` module with methods `all?`, `any?`, and `filter` for the `MyList` class. It allows `MyList` to perform checks and filtering on its elements. This promotes code reusability, modular design, and extends functionality similar to Ruby's `Enumerable`. By separating concerns, it fosters organized and maintainable code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
